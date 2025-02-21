@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">¡Hola! Soy Federico Bordon, un apasionado desarrollador con experiencia en HTML, CSS, JavaScript y Flutter con SQLite. Me encanta crear proyectos con un diseño atractivo, limpio y profesional.</h4>
+<h4 align="center">¡Hola! Soy Federico Bordon, un apasionado desarrollador con experiencia en HTML, CSS, JavaScript. Me encanta crear proyectos con un diseño atractivo, limpio y profesional.</h4>
 
 ###
 
@@ -13,9 +13,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo"  />
 </div>
 
 ###
@@ -23,7 +20,7 @@
 ## 🚀 Proyecto Destacado
 
 ### 🏎️ Man I Love Automovilismo
-🔹 **[Man I Love Automovilismo](https://milf1-oficial.web.app/)** es una web de juego de trivia sobre **Fórmula 1**.  
+🔹 **[Man I Love Automovilismo](https://milf1-oficial.web.app/)** es una web de juego de trivia sobre **Automovilismo**.  
 🔹 Diseño vibrante y dinámico con interfaz atractiva.  
 🔹 Preguntas interactivas para desafiar tus conocimientos sobre la F1.  
 🔹 Experiencia optimizada para distintos dispositivos.
