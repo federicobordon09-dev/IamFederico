@@ -20,23 +20,13 @@
 
 ###
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyecto Destacado
 
-### 🚗 Man I Love Automovilismo
-🔹 Un sitio web de información sobre el automovilismo con un diseño vibrante y dinámico.  
-🔹 Secciones: **Noticias, Carreras, Pilotos y Comunidad**.  
-🔹 Próxima integración con base de datos.
-
-### 🤖 M.I.L.F1 (Man I Love F1)
-🔹 Un bot de Discord de trivia sobre **Fórmula 1**.  
-🔹 Desarrollado en **Node.js** con **Discord.js**.  
-🔹 Sistema de preguntas organizadas en categorías con botones interactivos.  
-🔹 Diseño oscuro con un estilo llamativo y profesional.
-
-### 📚 Sistema de Gestión de Biblioteca
-🔹 Aplicación en **Flutter** con **SQLite**.  
-🔹 Gestión de libros, usuarios y préstamos.  
-🔹 Arquitectura con **repositorios y adaptadores** para almacenamiento en memoria, Firebase y SQLite.
+### 🏎️ Man I Love Automovilismo
+🔹 **[Man I Love Automovilismo](https://milf1-oficial.web.app/)** es una web de juego de trivia sobre **Fórmula 1**.  
+🔹 Diseño vibrante y dinámico con interfaz atractiva.  
+🔹 Preguntas interactivas para desafiar tus conocimientos sobre la F1.  
+🔹 Experiencia optimizada para distintos dispositivos.
 
 ###
 
