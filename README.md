@@ -17,16 +17,6 @@
 
 ###
 
-## 🚀 Proyecto Destacado
-
-### 🏎️ Man I Love Automovilismo
-🔹 **[Man I Love Automovilismo](https://milf1-oficial.web.app/)** es una web de juego de trivia sobre **Automovilismo**.  
-🔹 Diseño vibrante y dinámico con interfaz atractiva.  
-🔹 Preguntas interactivas para desafiar tus conocimientos sobre la F1.  
-🔹 Experiencia optimizada para distintos dispositivos.
-
-###
-
 ## 🛠️ Tecnologías y Habilidades
 
 <div align="center">
