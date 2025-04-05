@@ -28,9 +28,6 @@
   <a href="https://github.com/zearostudio">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://zearostudio.com">
-    <img src="https://img.shields.io/badge/Website-0099ff?style=for-the-badge&logo=web&logoColor=white" alt="Website">
-  </a>
 </div>
 
 ---
