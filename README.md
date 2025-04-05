@@ -28,7 +28,7 @@
 
 ## 🎯 Featured Project
 
-> [**Who's the Driver**]((https://zearostudio.github.io/whosthedriver/)) — A web-based trivia game for motorsport fans.  
+> [**Who's the Driver**]([https://federicobordon.github.io/whosthedriver/](https://zearostudio.github.io/whosthedriver/)) — A web-based trivia game for motorsport fans.  
 > 🏁 Test your knowledge and find out who's behind the wheel!
 
 ###
@@ -36,7 +36,7 @@
 ## 📫 Contact
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/zearostudio/" target="_blank">
+  <a href="https://www.linkedin.com/in/federicobordon09/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
 </div>
