@@ -26,13 +26,6 @@
 
 ###
 
-## 🎯 Featured Project
-
-> [**Who's the Driver**]([https://federicobordon.github.io/whosthedriver/](https://zearostudio.github.io/whosthedriver/)) — A web-based trivia game for motorsport fans.  
-> 🏁 Test your knowledge and find out who's behind the wheel!
-
-###
-
 ## 📫 Contact
 
 <div align="center">
