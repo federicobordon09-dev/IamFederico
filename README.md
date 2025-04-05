@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">¡Hola! Somos <strong>Zearo Studios</strong>, un pequeño estudio independiente de desarrollo liderado por Federico Bordon. Nos enfocamos en crear experiencias web llamativas, limpias y divertidas con tecnologías modernas.</h4>
+<h4 align="center">We are <strong>Zearo Studios</strong>, an independent creative development studio focused on building clean, fun, and engaging web experiences using modern technologies.</h4>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-## 🛠️ Tecnologías y Habilidades
+## 🛠️ Technologies & Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -26,21 +26,21 @@
 
 ###
 
-## 🎯 Proyecto Destacado
+## 🎯 Featured Project
 
-> [**Who's the Driver**](https://federicobordon.github.io/whosthedriver/) — Un juego web estilo trivia para fanáticos del automovilismo.  
-> 🏁 ¡Pone a prueba tus conocimientos y descubrí quién está detrás del volante!
+> [**Who's the Driver**](https://federicobordon.github.io/whosthedriver/) — A web-based trivia game for motorsport fans.  
+> 🏁 Test your knowledge and find out who's behind the wheel!
 
 ###
 
-## 📫 Contacto
+## 📫 Contact
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/federicobordon09/" target="_blank">
+  <a href="https://www.linkedin.com/in/zearostudio/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
 </div>
 
 ---
 
-<p align="center">✨ Desarrollado con pasión por <strong>Federico Bordon</strong> – Founder de <strong>Zearo Studios</strong> ✨</p>
+<p align="center">✨ Built with passion by <strong>Zearo Studios</strong> ✨</p>
