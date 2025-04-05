@@ -1,18 +1,17 @@
-<h2 align="center">💻 Federico Bordon</h2>
+<h2 align="center">🎮 Zearo Studios</h2>
 
 ###
 
-<h4 align="center">¡Hola! Soy Federico Bordon, un apasionado desarrollador con experiencia en HTML, CSS, JavaScript. Me encanta crear proyectos con un diseño atractivo, limpio y profesional.</h4>
+<h4 align="center">¡Hola! Somos <strong>Zearo Studios</strong>, un pequeño estudio independiente de desarrollo liderado por Federico Bordon. Nos enfocamos en crear experiencias web llamativas, limpias y divertidas con tecnologías modernas.</h4>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
 </div>
 
 ###
@@ -27,6 +26,13 @@
 
 ###
 
+## 🎯 Proyecto Destacado
+
+> [**Who's the Driver**](https://federicobordon.github.io/whosthedriver/) — Un juego web estilo trivia para fanáticos del automovilismo.  
+> 🏁 ¡Pone a prueba tus conocimientos y descubrí quién está detrás del volante!
+
+###
+
 ## 📫 Contacto
 
 <div align="center">
@@ -35,4 +41,6 @@
   </a>
 </div>
 
-¡Gracias por visitar mi perfil! 🚀
+---
+
+<p align="center">✨ Desarrollado con pasión por <strong>Federico Bordon</strong> – Founder de <strong>Zearo Studios</strong> ✨</p>
