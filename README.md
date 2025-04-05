@@ -1,39 +1,38 @@
-<h2 align="center">🎮 Zearo Studios</h2>
+# 🎮 Zearo Studios
 
-###
-
-<h4 align="center">We are <strong>Zearo Studios</strong>, an independent creative development studio focused on building clean, fun, and engaging web experiences using modern technologies.</h4>
-
-###
+## We are **Zearo Studios**, an independent creative development studio focused on building clean, fun, and engaging web experiences using modern technologies.
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
 </div>
-
-###
 
 ## 🛠️ Technologies & Skills
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
-
-###
+- **Frontend Development**: HTML5, CSS3, JavaScript, React, Vue.js
+- **Backend Development**: Node.js, Express, Python, Django
+- **Mobile Development**: Flutter, React Native
+- **Database**: MongoDB, PostgreSQL, MySQL
+- **DevOps**: Docker, AWS, CI/CD
+- **Version Control**: Git, GitHub
+- **UI/UX Design**: Figma, Adobe XD
 
 ## 📫 Contact
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/federicobordon09/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  <a href="https://www.instagram.com/zearostudio/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://github.com/zearostudio">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://zearostudio.com">
+    <img src="https://img.shields.io/badge/Website-0099ff?style=for-the-badge&logo=web&logoColor=white" alt="Website">
   </a>
 </div>
 
 ---
 
-<p align="center">✨ Built with passion by <strong>Zearo Studios</strong> ✨</p>
+✨ Built with passion by **Zearo Studios** ✨ 
