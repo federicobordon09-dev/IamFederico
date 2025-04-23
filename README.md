@@ -35,10 +35,10 @@ Soy desarrollador autodidacta, especializado en HTML, CSS y JavaScript para el d
 ## Contacto
 
 <div align="center">
-  <a href="https://github.com/tuusuario">
+  <a href="https://github.com/federicobordon09-dev">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.instagram.com/tuusuario/">
+  <a href="https://www.instagram.com/soyelmorocho_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
