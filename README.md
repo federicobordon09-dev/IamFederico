@@ -26,7 +26,7 @@ Soy desarrollador autodidacta, especializado en HTML, CSS y JavaScript para el d
 
 ## Algunos proyectos
 
-- [Who's the Driver?]([https://github.com/tuusuario/portafolio](https://federicobordon09-dev.github.io/whosthedriver/)) — Juego web inspirado en Wordle con temática de Fórmula 1. Los usuarios deben adivinar el nombre del piloto con base en pistas visuales. Diseño responsive, modo oscuro y enfoque en una experiencia fluida y minimalista.  
+- [Who's the Driver?](https://federicobordon09-dev.github.io/whosthedriver/) — Juego web inspirado en Wordle con temática de Fórmula 1. Los usuarios deben adivinar el nombre del piloto con base en pistas visuales. Diseño responsive, modo oscuro y enfoque en una experiencia fluida y minimalista.  
 
 ---
 
