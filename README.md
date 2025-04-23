@@ -26,9 +26,7 @@ Soy desarrollador autodidacta, especializado en HTML, CSS y JavaScript para el d
 
 ## Algunos proyectos
 
-- [Portafolio personal](https://github.com/tuusuario/portafolio) — Sitio web con diseño profesional, modo oscuro y estilo japonés.  
-- [Bot de Discord M.I.L.F1](https://github.com/tuusuario/milf1-bot) — Trivia sobre Fórmula 1, con comandos organizados, menús interactivos y presentación personalizada.  
-- [Gestor de biblioteca en Flutter](https://github.com/tuusuario/flutter-library-app) — Aplicación para gestión de bibliotecas con SQLite.
+- [Who's the Driver?]([https://github.com/tuusuario/portafolio](https://federicobordon09-dev.github.io/whosthedriver/)) — Juego web inspirado en Wordle con temática de Fórmula 1. Los usuarios deben adivinar el nombre del piloto con base en pistas visuales. Diseño responsive, modo oscuro y enfoque en una experiencia fluida y minimalista.  
 
 ---
 
